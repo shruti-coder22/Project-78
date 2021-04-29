@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    }
+    #img1 {
+    width:450px;
+    border-style:ridge;
+    border-width:10px;
+    border-color:#69F0AE;
+    border-radius:5%;
+    padding:5px;
+    margin:10px;
+    }
+    #reason1 {
+    font-size:30px;
+    }
